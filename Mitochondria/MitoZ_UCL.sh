@@ -10,7 +10,8 @@
 #SBATCH --mail-user=pk14885@bristol.ac.uk
 #SBATCH --account=BISC020282
 
-UCL_Genome_MitoZ/DTG-DNA-1074.r64296e222347B01.subreads_ccs.fastq.mini.gz
+cd /user/work/pk14885/UCL_Genome_MitoZ
+
 # ---------------------------------------------------------------------------------
 # RUN MITOZ ON BLUEPEBBLE (OPTION 1):
 
