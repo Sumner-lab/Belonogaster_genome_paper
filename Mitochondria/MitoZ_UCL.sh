@@ -2,7 +2,7 @@
 #SBATCH --job-name=MitoZ_UCL
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --cpus-per-task=8
+#SBATCH --cpus-per-task=16
 #SBATCH --mem=120G
 #SBATCH --time=1-00:00:00
 # "d-hh:mm:ss"
@@ -28,7 +28,7 @@ singularity run -B/user/work/pk14885/UCL_Genome_MitoZ/ /user/work/pk14885/MitoZ_
            --data_size_for_mt_assembly 0,0 \
            --assembler megahit \
            --kmers_megahit 21,29,39,59,79,99 \
-           --thread_number 8 \
+           --thread_number 16 \
            --memory 120 \
            --requiring_taxa Arthropoda
 
