@@ -1,10 +1,10 @@
 #!/bin/bash
 #SBATCH --job-name=MitoZ_UCL
 #SBATCH --nodes=1
-#SBATCH --ntasks-per-node=4
-#SBATCH --cpus-per-task=1
-#SBATCH --mem=30G
-#SBATCH --time=0-06:00:00
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=8
+#SBATCH --mem=120G
+#SBATCH --time=1-00:00:00
 # "d-hh:mm:ss"
 #SBATCH --mail-type=end
 #SBATCH --mail-user=pk14885@bristol.ac.uk
@@ -13,7 +13,7 @@
 cd /user/work/pk14885/UCL_Genome_MitoZ
 
 # ---------------------------------------------------------------------------------
-# RUN MITOZ ON BLUEPEBBLE (OPTION 1):
+# RUN MITOZ ON BLUEPEBBLE:
 
 # Running it through Singularity on BluePebble (Bristol's HPC):
 
@@ -25,11 +25,11 @@ singularity run -B/user/work/pk14885/UCL_Genome_MitoZ/ /user/work/pk14885/MitoZ_
            --genetic_code 5 \
            --clade Arthropoda \
            --fastq_read_length 150 \
-           --data_size_for_mt_assembly 0.5 \
+           --data_size_for_mt_assembly 0,0 \
            --assembler megahit \
-           --kmers_megahit 21 29 39 59 79 99 \
-           --thread_number 1 \
-           --memory 30 \
+           --kmers_megahit 21,29,39,59,79,99 \
+           --thread_number 8 \
+           --memory 120 \
            --requiring_taxa Arthropoda
 
  # ---------------------------------------------------------------------------------
