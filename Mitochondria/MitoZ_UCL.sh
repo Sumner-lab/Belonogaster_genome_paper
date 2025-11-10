@@ -25,11 +25,11 @@ singularity run -B/user/work/pk14885/UCL_Genome_MitoZ/ /user/work/pk14885/MitoZ_
            --genetic_code 5 \
            --clade Arthropoda \
            --fastq_read_length 150 \
-           --data_size_for_mt_assembly 3,0 \
+           --data_size_for_mt_assembly 0.5 \
            --assembler megahit \
-           --kmers_megahit 59 79 99 \
+           --kmers_megahit 21 29 39 59 79 99 \
            --thread_number 1 \
-           --memory 50 \
+           --memory 30 \
            --requiring_taxa Arthropoda
 
  # ---------------------------------------------------------------------------------
