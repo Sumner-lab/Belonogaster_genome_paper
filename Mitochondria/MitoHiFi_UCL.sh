@@ -38,9 +38,9 @@ singularity run -B/user/work/pk14885/UCL_Genome_MitoHiFi/ /user/work/pk14885/mit
 # The result of this script is the annotated mitochondrial genome for the focal wasp.
 
 # ---------------------------------------------------------------------------------
-# CALCULATING COVERAGE:
+# CALCULATING MEAN DEPTH:
 
-# To calculate coverage, we use minimap2:
+# To calculate mean depth, we use minimap2:
 ## minimap2 -ax map-hifi final_mitogenome.fasta DTG-DNA-1074.r64296e222347B01.subreads_ccs.fastq.gz | samtools sort -o mito.coverage.bam
 ## samtools index mito.coverage.bam
 ## samtools flagstat mito.coverage.bam
