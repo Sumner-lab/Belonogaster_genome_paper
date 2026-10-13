@@ -14,6 +14,7 @@ This folder holds the code behind three results:
 | `trf_summary.py` | Summarises the TRF output: satellite content, the 296-bp family, overlap with Omni-C contacts and genes |
 | `satellite_scan.py` | Looks for the satellite in other genomes |
 | `satellite_296bp_consensus.fa` | Consensus monomer of the satellite (296 bp), written by `trf_summary.py` |
+| `make_figure1.py` | Final Figure 1: photo (a) and contact map (b) as equal squares, 180 mm wide |
 
 ## Inputs
 
@@ -88,3 +89,22 @@ Random sequence gives about 0.004%. A homologous satellite array gives several p
 
 - Python 3.11 with numpy, pandas, matplotlib, and hic-straw 1.3.1 (for `.hic` files).
 - Tandem Repeats Finder v4.09.1 (Benson 1999).
+
+### Final Figure 1 (photo + contact map)
+
+`replot_omnic_final.py` saves the binned contacts as `contacts_chr1-39_250kb.npz`. `make_figure1.py` redraws panel b from this file with the same colour scaling as the `_observed` version, and places it next to the photo (panel a) as two 72 × 72 mm squares.
+
+The photo (`DSC_0743.NEF`, Patrick Kennedy) was prepared as follows:
+```
+sips -s format tiff DSC_0743.NEF --out DSC_0743.tif
+magick DSC_0743.tif -strip raw.tif       # drop the orientation tag; pixels are stored heads-up
+python -c "from PIL import Image; Image.open('raw.tif').crop((0,560,2848,3408)).save('raw_crop.tif')"
+magick raw_crop.tif -level 0%,60%,1.25 -sigmoidal-contrast 3x40% -unsharp 0x1.2+0.6+0.02 -depth 8 -strip photo_square.tif
+```
+Then:
+```
+pip install numpy matplotlib pillow
+python make_figure1.py
+```
+This writes `Figure1.*` (axis labels 4.5 pt; all 39 chromosomes labelled, crowded labels staggered) and `Figure1_largefont.*` (6.5 pt; labels thinned where they would overlap), as PDF, PNG and TIFF at 600 dpi.
+
