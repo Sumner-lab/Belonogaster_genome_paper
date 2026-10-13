@@ -13,8 +13,8 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from PIL import Image
 
-PHOTO = "work/photo_square.tif"  # DSC_0743.NEF, orientation tag stripped (pixels are stored heads-up), square crop, brightened (see README)
-NPZ = "../HiC_replot/contacts_chr1-39_250kb.npz"
+PHOTO = "photo_square.tif"  # DSC_0743.NEF, orientation tag stripped (pixels are stored heads-up), square crop, brightened (see README)
+NPZ = "contacts_chr1-39_250kb.npz"
 TRANS_WHITE_Q = 0.75
 
 d = np.load(NPZ)
