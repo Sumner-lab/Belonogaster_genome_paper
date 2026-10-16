@@ -1,0 +1,41 @@
+# CAFE_summary.txt — per-species/node counts derived from CAFE5 output
+# Sources: *_branch_probabilities.tab (p-values) and *_change.tab (gene count changes)
+#
+# Note on terminology: 'HOG' is used throughout as a generic term for gene family.
+#   OrthoFinder v2 (--orthofinder_v2): families are Hierarchical Orthogroups (HOGs) from N0.tsv
+#   OrthoFinder v3 (default):          families are flat Orthogroups from Orthogroups.tsv
+#   Both are handled identically by this pipeline; HOG in column names refers to either.
+#
+# Column definitions:
+#   Species/Node                  : Leaf species or internal ancestral node (number matches cafe_node_label_guide.pdf)
+#   Total_HOGs_significant        : Number of gene families with a significant branch p-value (p <= 0.05)
+#   Expansion_HOGs_significant    : Significant gene families (p <= 0.05) with a net positive gene count change (expansion)
+#   Contraction_HOGs_significant  : Significant gene families (p <= 0.05) with a net negative gene count change (contraction)
+#   Expansion_genes_significant   : Sum of gene count changes across all significant expanding families (total genes gained)
+#   Contraction_genes_significant : Sum of gene count changes across all significant contracting families (negative; total genes lost)
+#   Expansion_HOGs_total          : Gene families with any positive gene count change, regardless of significance (no p-value filter)
+#   Contraction_HOGs_total        : Gene families with any negative gene count change, regardless of significance (no p-value filter)
+#
+Species/Node	Total_HOGs_significant	Expansion_HOGs_significant	Contraction_HOGs_significant	Expansion_genes_significant	Contraction_genes_significant	Expansion_HOGs_total	Contraction_HOGs_total
+14	9	9	0	27	0	117	0
+15	51	51	0	75	0	114	79
+16	250	70	180	165	-180	128	249
+17	36	32	4	66	-12	74	183
+18	49	1	48	2	-48	1	68
+19	30	29	1	47	-4	58	196
+20	315	45	270	60	-275	111	497
+21	101	18	83	32	-90	32	138
+22	36	30	6	73	-14	52	353
+23	210	23	187	33	-192	36	273
+Ancistrocerus_nigricornis	23	14	9	67	-21	299	1571
+Belonogaster_juncea	131	129	2	1182	-4	339	208
+Dolichovespula_media	258	68	190	119	-192	158	408
+Dolichovespula_saxonica	198	72	126	142	-131	263	303
+Dolichovespula_sylvestris	228	40	188	57	-230	245	692
+Liostenogaster_flavolineata	41	41	0	179	0	1436	0
+Polistes_dominula	84	71	13	423	-31	326	551
+Vespa_crabro	284	140	144	334	-187	347	687
+Vespa_velutina	408	54	354	163	-365	92	581
+Vespula_germanica	305	104	201	163	-209	305	411
+Vespula_pensylvanica	97	14	83	19	-102	25	138
+Vespula_vulgaris	83	16	67	21	-69	29	141

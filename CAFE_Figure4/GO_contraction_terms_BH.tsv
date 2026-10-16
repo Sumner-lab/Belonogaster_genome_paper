@@ -1,0 +1,1107 @@
+GO_ID	GO_term	Vespa_crabro	Vespa_velutina	Ancistrocerus_nigricornis	Dolichovespula_sylvestris	Dolichovespula_saxonica	Vespula_pensylvanica	Liostenogaster_flavolineata	Vespula_germanica	Belonogaster_juncea	Vespula_vulgaris	Dolichovespula_media	Polistes_dominula	Count_significant
+GO:0000002	mitochondrial genome maintenance	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0000023	maltose metabolic process	NA	NA	NA	1.0	NA	NA	NA	1.0	1.0	NA	1.0	NA	0
+GO:0000027	ribosomal large subunit assembly	1.0	0.986188657067306	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000054	ribosomal subunit export from nucleus	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0000056	ribosomal small subunit export from nucleus	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0000070	mitotic sister chromatid segregation	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000104	succinate dehydrogenase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000109	nucleotide-excision repair complex	NA	NA	NA	0.949367259008888	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000111	nucleotide-excision repair factor 2 complex	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000124	SAGA complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0000220	vacuolar proton-transporting V-type ATPase, V0 domain	NA	NA	NA	0.949367259008888	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0000228	nuclear chromosome	NA	NA	1.0	NA	NA	NA	NA	0.0228913824825081	NA	NA	NA	NA	1
+GO:0000245	spliceosomal complex assembly	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000275	mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0000278	mitotic cell cycle	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0000280	nuclear division	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0000295	adenine nucleotide transmembrane transporter activity	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0000350	generation of catalytic spliceosome for second transesterification step	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0000393	spliceosomal conformational changes to generate catalytic conformation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0000447	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000461	endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000710	meiotic mismatch repair	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000719	photoreactive repair	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000775	chromosome, centromeric region	NA	NA	NA	NA	0.832559702976848	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0000776	kinetochore	NA	NA	NA	0.949367259008888	0.675450880169064	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000779	condensed chromosome, centromeric region	NA	NA	NA	NA	0.675450880169064	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000785	chromatin	NA	NA	NA	NA	NA	NA	NA	0.0203899744252521	NA	NA	NA	NA	1
+GO:0000786	nucleosome	NA	NA	0.900476396334349	NA	0.675450880169064	NA	NA	0.0001537657829411	NA	NA	NA	NA	1
+GO:0000792	heterochromatin	NA	NA	NA	NA	NA	NA	NA	0.424485822076197	NA	NA	NA	NA	0
+GO:0000793	condensed chromosome	NA	NA	1.0	0.90173458812471	0.856986408039721	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0000795	synaptonemal complex	1.0	NA	0.900476396334349	0.90173458812471	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000808	origin recognition complex	1.0	NA	NA	NA	0.832559702976848	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0000819	sister chromatid segregation	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000902	cell morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000922	spindle pole	NA	NA	NA	NA	NA	NA	NA	NA	0.61104932321876	NA	NA	NA	0
+GO:0000940	outer kinetochore	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0000974	Prp19 complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0000979	RNA polymerase II core promoter sequence-specific DNA binding	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0001046	core promoter sequence-specific DNA binding	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0001578	microtubule bundle formation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0001652	granular component	NA	NA	NA	NA	0.654218621431733	NA	NA	NA	NA	NA	NA	NA	0
+GO:0001655	urogenital system development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0001676	long-chain fatty acid metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	0
+GO:0001731	formation of translation preinitiation complex	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0001736	establishment of planar polarity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0001738	morphogenesis of a polarized epithelium	NA	0.945441327417035	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0001763	morphogenesis of a branching structure	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0001895	retina homeostasis	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0001940	male pronucleus	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0002009	morphogenesis of an epithelium	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0002020	protease binding	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0002052	positive regulation of neuroblast proliferation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0002181	cytoplasmic translation	1.0	NA	1.0	NA	1.0	0.163578387869922	NA	1.0	0.973812923195031	NA	NA	NA	0
+GO:0002183	cytoplasmic translational initiation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0002237	response to molecule of bacterial origin	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0002943	tRNA dihydrouridine synthesis	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0003006	developmental process involved in reproduction	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0003008	system process	NA	1.0	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0003341	cilium movement	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0003676	nucleic acid binding	NA	NA	NA	NA	1.0	NA	NA	0.11262684739829	NA	NA	NA	NA	0
+GO:0003677	DNA binding	NA	NA	NA	NA	1.0	NA	NA	0.11262684739829	NA	NA	NA	NA	0
+GO:0003682	chromatin binding	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0003688	DNA replication origin binding	1.0	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0003700	DNA-binding transcription factor activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0003735	structural constituent of ribosome	1.0	NA	1.0	NA	1.0	0.273250445712012	NA	NA	1.0	NA	NA	NA	0
+GO:0003774	cytoskeletal motor activity	NA	1.0	NA	1.0	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0003777	microtubule motor activity	NA	1.0	NA	1.0	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0003779	actin binding	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0003823	antigen binding	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0003904	deoxyribodipyrimidine photo-lyase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0003913	DNA photolyase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0004017	adenylate kinase activity	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0004035	alkaline phosphatase activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	0
+GO:0004092	carnitine O-acetyltransferase activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0004143	ATP-dependent diacylglycerol kinase activity	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0004175	endopeptidase activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0004252	serine-type endopeptidase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0.180561685716702	NA	0
+GO:0004312	fatty acid synthase activity	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0004321	fatty-acyl-CoA synthase activity	NA	1.0	1.0	1.0	NA	1.0	NA	NA	NA	NA	NA	1.0	0
+GO:0004435	phosphatidylinositol phospholipase C activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0004462	lactoylglutathione lyase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0004467	long-chain fatty acid-CoA ligase activity	NA	1.0	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	0
+GO:0004558	alpha-1,4-glucosidase activity	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	1.0	NA	0
+GO:0004629	phospholipase C activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0004721	phosphoprotein phosphatase activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0004733	pyridoxamine phosphate oxidase activity	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0004869	cysteine-type endopeptidase inhibitor activity	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0004888	transmembrane signaling receptor activity	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0004984	olfactory receptor activity	NA	NA	1.0	1.0	NA	0.0114798953458822	NA	NA	NA	NA	1.0	NA	1
+GO:0005001	transmembrane receptor protein tyrosine phosphatase activity	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0005021	vascular endothelial growth factor receptor activity	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0005080	protein kinase C binding	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005198	structural molecule activity	1.0	NA	1.0	NA	1.0	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0005201	extracellular matrix structural constituent	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	0
+GO:0005212	structural constituent of eye lens	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0005221	intracellular cyclic nucleotide activated monoatomic cation channel activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0005267	potassium channel activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005346	purine ribonucleotide transmembrane transporter activity	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0005347	ATP transmembrane transporter activity	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0005351	carbohydrate:proton symporter activity	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005355	glucose transmembrane transporter activity	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005402	carbohydrate:monoatomic cation symporter activity	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005488	binding	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005509	calcium ion binding	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.301785634064872	NA	NA	0
+GO:0005515	protein binding	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005527	macrolide binding	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0005528	FK506 binding	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0005536	glucose binding	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005544	calcium-dependent phospholipid binding	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0005549	odorant binding	NA	NA	1.0	1.0	NA	0.0122245768511449	NA	NA	NA	NA	1.0	NA	1
+GO:0005576	extracellular region	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0005581	collagen trimer	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005658	alpha DNA polymerase:primase complex	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005664	nuclear origin of replication recognition complex	1.0	NA	NA	NA	0.832559702976848	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0005669	transcription factor TFIID complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0005694	chromosome	NA	NA	NA	NA	NA	NA	NA	0.0299673448331387	NA	NA	NA	NA	1
+GO:0005701	polytene chromosome chromocenter	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0005704	polytene chromosome band	NA	NA	NA	NA	0.856986408039721	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0005730	nucleolus	NA	NA	NA	NA	0.905015432440844	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005740	mitochondrial envelope	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005743	mitochondrial inner membrane	NA	NA	NA	0.824304211978374	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005746	mitochondrial respirasome	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005749	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	NA	NA	NA	0.90173458812471	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005750	mitochondrial respiratory chain complex III	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005753	mitochondrial proton-transporting ATP synthase complex	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0005777	peroxisome	1.0	NA	NA	NA	NA	0.180052719995149	NA	NA	NA	NA	NA	NA	0
+GO:0005786	signal recognition particle, endoplasmic reticulum targeting	NA	NA	NA	NA	NA	0.978879112091949	NA	NA	NA	NA	NA	NA	0
+GO:0005813	centrosome	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0005815	microtubule organizing center	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0005819	spindle	NA	NA	NA	NA	0.654218621431733	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0005829	cytosol	1.0	NA	NA	NA	NA	0.0640467281821009	NA	NA	1.0	NA	NA	NA	0
+GO:0005840	ribosome	1.0	NA	0.38849061223483	NA	0.832559702976848	0.0077900310190166	NA	NA	0.16676415097637	NA	NA	NA	1
+GO:0005844	polysome	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0005856	cytoskeleton	NA	1.0	NA	0.918099392786783	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0005861	troponin complex	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005871	kinesin complex	NA	NA	NA	0.949367259008888	NA	NA	NA	NA	0.754316619147391	NA	NA	NA	0
+GO:0005874	microtubule	NA	NA	NA	NA	0.809496771679279	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0005876	spindle microtubule	NA	NA	NA	NA	0.654218621431733	NA	NA	NA	0.61104932321876	NA	NA	NA	0
+GO:0005929	cilium	NA	1.0	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0005968	Rab-protein geranylgeranyltransferase complex	NA	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	0
+GO:0005984	disaccharide metabolic process	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0005991	trehalose metabolic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006031	chitin biosynthetic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006081	cellular aldehyde metabolic process	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006091	generation of precursor metabolites and energy	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006119	oxidative phosphorylation	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006121	mitochondrial electron transport, succinate to ubiquinone	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006122	mitochondrial electron transport, ubiquinol to cytochrome c	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006139	nucleobase-containing compound metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0006163	purine nucleotide metabolic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006172	ADP biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006260	DNA replication	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006261	DNA-templated DNA replication	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006264	mitochondrial DNA replication	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0006270	DNA replication initiation	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0006272	leading strand elongation	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006273	lagging strand elongation	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006275	regulation of DNA replication	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0006277	DNA amplification	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0006290	pyrimidine dimer repair	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006303	double-strand break repair via nonhomologous end joining	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006304	DNA modification	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0006305	DNA alkylation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0006306	DNA methylation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0006309	apoptotic DNA fragmentation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0006325	chromatin organization	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0006334	nucleosome assembly	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0006338	chromatin remodeling	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0006346	DNA methylation-dependent heterochromatin formation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0006351	DNA-templated transcription	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0006355	regulation of DNA-templated transcription	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0006357	regulation of transcription by RNA polymerase II	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0006378	mRNA polyadenylation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0006396	RNA processing	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0006397	mRNA processing	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0006407	rRNA export from nucleus	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006412	translation	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0006470	protein dephosphorylation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0006482	protein demethylation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0006508	proteolysis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0006518	peptide metabolic process	NA	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0006577	amino-acid betaine metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0006612	protein targeting to membrane	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0006613	cotranslational protein targeting to membrane	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0006629	lipid metabolic process	NA	NA	NA	NA	NA	0.626124413554643	NA	NA	NA	NA	NA	NA	0
+GO:0006631	fatty acid metabolic process	NA	NA	NA	NA	NA	0.90970870500197	NA	NA	1.0	NA	NA	NA	0
+GO:0006633	fatty acid biosynthetic process	NA	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0006637	acyl-CoA metabolic process	NA	NA	NA	NA	NA	0.940360202892076	NA	NA	NA	NA	NA	NA	0
+GO:0006638	neutral lipid metabolic process	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006639	acylglycerol metabolic process	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006651	diacylglycerol biosynthetic process	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006654	phosphatidic acid biosynthetic process	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006706	steroid catabolic process	NA	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0006707	cholesterol catabolic process	NA	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0006723	cuticle hydrocarbon biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0006725	cellular aromatic compound metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0006743	ubiquinone metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0006744	ubiquinone biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0006753	nucleoside phosphate metabolic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006760	folic acid-containing compound metabolic process	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006766	vitamin metabolic process	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006767	water-soluble vitamin metabolic process	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006790	sulfur compound metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0006805	xenobiotic metabolic process	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006842	tricarboxylic acid transport	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006848	pyruvate transport	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006862	nucleotide transport	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0006921	cellular component disassembly involved in execution phase of apoptosis	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0006935	chemotaxis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0006996	organelle organization	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0006998	nuclear envelope organization	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007017	microtubule-based process	NA	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007018	microtubule-based movement	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007019	microtubule depolymerization	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0007026	negative regulation of microtubule depolymerization	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0007049	cell cycle	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0007051	spindle organization	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007052	mitotic spindle organization	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0007059	chromosome segregation	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0007080	mitotic metaphase chromosome alignment	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0007088	regulation of mitotic nuclear division	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0007091	metaphase/anaphase transition of mitotic cell cycle	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0007100	mitotic centrosome separation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0007113	endomitotic cell cycle	NA	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	0
+GO:0007129	homologous chromosome pairing at meiosis	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007154	cell communication	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007163	establishment or maintenance of cell polarity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007164	establishment of tissue polarity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007165	signal transduction	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007173	epidermal growth factor receptor signaling pathway	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007219	Notch signaling pathway	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007221	positive regulation of transcription of Notch receptor target	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0007229	integrin-mediated signaling pathway	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007269	neurotransmitter secretion	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0007270	neuron-neuron synaptic transmission	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	1.0	0
+GO:0007274	neuromuscular synaptic transmission	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0007275	multicellular organism development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007276	gamete generation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007281	germ cell development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007288	sperm axoneme assembly	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0007289	spermatid nucleus differentiation	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007292	female gamete generation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007307	eggshell chorion gene amplification	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0007311	maternal specification of dorsal/ventral axis, oocyte, germ-line encoded	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0007346	regulation of mitotic cell cycle	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0007348	regulation of syncytial blastoderm mitotic cell cycle	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	0
+GO:0007370	ventral furrow formation	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0007379	segment specification	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0007380	specification of segmental identity, head	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0007385	specification of segmental identity, abdomen	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0007399	nervous system development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007414	axonal defasciculation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0007415	defasciculation of motor neuron axon	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0007419	ventral cord development	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0007421	stomatogastric nervous system development	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007436	larval salivary gland morphogenesis	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0007438	oenocyte development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007439	ectodermal digestive tract development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007440	foregut morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0007442	hindgut morphogenesis	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007443	Malpighian tubule morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007516	hemocyte development	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0007525	somatic muscle development	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0007600	sensory perception	NA	1.0	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0007601	visual perception	NA	NA	NA	NA	1.0	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0007603	phototransduction, visible light	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007605	sensory perception of sound	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0007606	sensory perception of chemical stimulus	NA	NA	1.0	1.0	NA	0.940360202892076	NA	NA	NA	NA	NA	NA	0
+GO:0007608	sensory perception of smell	NA	NA	1.0	NA	NA	0.661359859845608	NA	NA	NA	NA	NA	NA	0
+GO:0007610	behavior	NA	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0007615	anesthesia-resistant memory	NA	NA	NA	NA	NA	0.775651855068431	NA	NA	NA	NA	NA	NA	0
+GO:0007628	adult walking behavior	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0007635	chemosensory behavior	NA	NA	NA	1.0	NA	0.940360202892076	NA	NA	NA	NA	NA	NA	0
+GO:0008010	structural constituent of chitin-based larval cuticle	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0008017	microtubule binding	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008045	motor neuron axon guidance	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008046	axon guidance receptor activity	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0008081	phosphoric diester hydrolase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008090	retrograde axonal transport	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008092	cytoskeletal protein binding	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008097	5S rRNA binding	NA	1.0	NA	NA	1.0	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0008121	ubiquinol-cytochrome-c reductase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0008156	negative regulation of DNA replication	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	0
+GO:0008177	succinate dehydrogenase (ubiquinone) activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008198	ferrous iron binding	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0008202	steroid metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0008203	cholesterol metabolic process	NA	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0008214	protein dealkylation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0008233	peptidase activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0008236	serine-type peptidase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0.180561685716702	NA	0
+GO:0008242	omega peptidase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008277	regulation of G protein-coupled receptor signaling pathway	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008278	cohesin complex	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0008283	cell population proliferation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008287	protein serine/threonine phosphatase complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0008324	monoatomic cation transmembrane transporter activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0008344	adult locomotory behavior	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0008356	asymmetric cell division	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0008377	light-induced release of internally sequestered calcium ion	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008514	organic anion transmembrane transporter activity	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008574	plus-end-directed microtubule motor activity	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0008610	lipid biosynthetic process	NA	NA	NA	NA	NA	0.90970870500197	NA	NA	NA	NA	NA	NA	0
+GO:0008645	hexose transmembrane transport	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0008889	glycerophosphodiester phosphodiesterase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009055	electron transfer activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009061	anaerobic respiration	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009110	vitamin biosynthetic process	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009117	nucleotide metabolic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009123	nucleoside monophosphate metabolic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009124	nucleoside monophosphate biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009126	purine nucleoside monophosphate metabolic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009127	purine nucleoside monophosphate biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009133	nucleoside diphosphate biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009136	purine nucleoside diphosphate biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009150	purine ribonucleotide metabolic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009156	ribonucleoside monophosphate biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009161	ribonucleoside monophosphate metabolic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009167	purine ribonucleoside monophosphate metabolic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009168	purine ribonucleoside monophosphate biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009180	purine ribonucleoside diphosphate biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009188	ribonucleoside diphosphate biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009259	ribonucleotide metabolic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009270	response to humidity	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0009295	nucleoid	NA	NA	0.900476396334349	NA	0.675450880169064	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0009299	mRNA transcription	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0009395	phospholipid catabolic process	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009415	response to water	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0009437	carnitine metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0009593	detection of chemical stimulus	NA	NA	1.0	1.0	NA	0.271291835593388	NA	NA	NA	NA	NA	NA	0
+GO:0009595	detection of biotic stimulus	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0009653	anatomical structure morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009743	response to carbohydrate	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0009744	response to sucrose	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0009794	regulation of mitotic cell cycle, embryonic	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0009881	photoreceptor activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0009888	tissue development	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0010025	wax biosynthetic process	1.0	NA	NA	NA	NA	1.0	NA	NA	NA	NA	1.0	NA	0
+GO:0010166	wax metabolic process	1.0	NA	NA	NA	NA	1.0	NA	NA	NA	NA	1.0	NA	0
+GO:0010226	response to lithium ion	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0010332	response to gamma radiation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0010369	chromocenter	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0010452	histone H3-K36 methylation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0010470	regulation of gastrulation	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0010623	programmed cell death involved in cell development	NA	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0010631	epithelial cell migration	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0010639	negative regulation of organelle organization	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	0
+GO:0010777	meiotic mismatch repair involved in reciprocal meiotic recombination	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0010796	regulation of multivesicular body size	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0010797	regulation of multivesicular body size involved in endosome transport	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0010817	regulation of hormone levels	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0010889	regulation of sequestering of triglyceride	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0010923	negative regulation of phosphatase activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0010955	negative regulation of protein processing	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0010965	regulation of mitotic sister chromatid separation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0014732	skeletal muscle atrophy	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0014887	cardiac muscle adaptation	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0014888	striated muscle adaptation	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0014889	muscle atrophy	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0014891	striated muscle atrophy	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0014899	cardiac muscle atrophy	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015039	NADPH-adrenodoxin reductase activity	NA	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0015078	proton transmembrane transporter activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015137	citrate transmembrane transporter activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015141	succinate transmembrane transporter activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015142	tricarboxylic acid transmembrane transporter activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015144	carbohydrate transmembrane transporter activity	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015145	monosaccharide transmembrane transporter activity	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015149	hexose transmembrane transporter activity	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015175	neutral L-amino acid transmembrane transporter activity	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015215	nucleotide transmembrane transporter activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015216	purine nucleotide transmembrane transporter activity	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015217	ADP transmembrane transporter activity	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015228	coenzyme A transmembrane transporter activity	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015230	FAD transmembrane transporter activity	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015295	solute:proton symporter activity	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015399	primary active transmembrane transporter activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015453	oxidoreduction-driven active transmembrane transporter activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015605	organophosphate ester transmembrane transporter activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015630	microtubule cytoskeleton	NA	1.0	NA	0.824304211978374	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0015631	tubulin binding	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015740	C4-dicarboxylate transport	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015744	succinate transport	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015746	citrate transport	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015749	monosaccharide transmembrane transport	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015804	neutral amino acid transport	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015858	nucleoside transport	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015865	purine nucleotide transport	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015866	ADP transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015867	ATP transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015868	purine ribonucleotide transport	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015880	coenzyme A transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015883	FAD transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0015926	glucosidase activity	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	1.0	NA	0
+GO:0015934	large ribosomal subunit	1.0	NA	0.900476396334349	NA	0.660627518326787	0.441565995174636	NA	NA	NA	NA	NA	NA	0
+GO:0015935	small ribosomal subunit	NA	NA	1.0	NA	NA	0.133301139726748	NA	NA	0.409485251452888	NA	NA	NA	0
+GO:0015980	energy derivation by oxidation of organic compounds	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0015988	energy coupled proton transmembrane transport, against electrochemical gradient	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0016010	dystrophin-associated glycoprotein complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0016014	dystrobrevin complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0016027	inaD signaling complex	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016028	rhabdomere	NA	NA	NA	0.949367259008888	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016042	lipid catabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0016043	cellular component organization	NA	0.945441327417035	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016053	organic acid biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0016056	rhodopsin mediated signaling pathway	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016059	deactivation of rhodopsin mediated signaling	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016070	RNA metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0016080	synaptic vesicle targeting	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0016127	sterol catabolic process	NA	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0016242	negative regulation of macroautophagy	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0016282	eukaryotic 43S preinitiation complex	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0016298	lipase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0016319	mushroom body development	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0016321	female meiosis chromosome segregation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0016324	apical plasma membrane	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016327	apicolateral plasma membrane	NA	1.0	NA	0.824304211978374	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016331	morphogenesis of embryonic epithelium	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016332	establishment or maintenance of polarity of embryonic epithelium	NA	0.929505511074975	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016333	morphogenesis of follicular epithelium	NA	0.930681601412841	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016334	establishment or maintenance of polarity of follicular epithelium	NA	0.929505511074975	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0016358	dendrite development	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0016405	CoA-ligase activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	0
+GO:0016406	carnitine O-acyltransferase activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0016408	C-acyltransferase activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	0
+GO:0016413	O-acetyltransferase activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0016471	vacuolar proton-transporting V-type ATPase complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0016485	protein processing	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016486	peptide hormone processing	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016491	oxidoreductase activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0016533	protein kinase 5 complex	NA	NA	NA	0.824304211978374	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016570	histone modification	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0016577	histone demethylation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0016628	oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016638	oxidoreductase activity, acting on the CH-NH2 group of donors	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016641	oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016679	oxidoreductase activity, acting on diphenols and related substances as donors	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0016730	oxidoreductase activity, acting on iron-sulfur proteins as donors	NA	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0016731	oxidoreductase activity, acting on iron-sulfur proteins as donors, NAD or NADP as acceptor	NA	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0016747	acyltransferase activity, transferring groups other than amino-acyl groups	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0016787	hydrolase activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0016791	phosphatase activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0016846	carbon-sulfur lyase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016874	ligase activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0016879	ligase activity, forming carbon-nitrogen bonds	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0016881	acid-amino acid ligase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	0.301785634064872	NA	NA	0
+GO:0016925	protein sumoylation	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016926	protein desumoylation	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0016973	poly(A)+ mRNA export from nucleus	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0017022	myosin binding	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0017062	respiratory chain complex III assembly	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0017069	snRNA binding	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0017071	intracellular cyclic nucleotide activated cation channel complex	NA	NA	NA	0.824304211978374	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0017145	stem cell division	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0017150	tRNA dihydrouridine synthase activity	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0017158	regulation of calcium ion-dependent exocytosis	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0017171	serine hydrolase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0.180561685716702	NA	0
+GO:0018094	protein polyglycylation	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	1.0	0
+GO:0018130	heterocycle biosynthetic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0018193	peptidyl-amino acid modification	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0018200	peptidyl-glutamic acid modification	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0018205	peptidyl-lysine modification	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0018342	protein prenylation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	0
+GO:0018344	protein geranylgeranylation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	0
+GO:0019198	transmembrane receptor protein phosphatase activity	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0019212	phosphatase inhibitor activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0019216	regulation of lipid metabolic process	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0019230	proprioception	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0019432	triglyceride biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0019637	organophosphate metabolic process	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0019646	aerobic electron transport chain	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0019693	ribose phosphate metabolic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0019784	deNEDDylase activity	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0019788	NEDD8 transferase activity	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0019789	SUMO transferase activity	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0019843	rRNA binding	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0019866	organelle inner membrane	NA	NA	NA	0.824304211978374	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0021551	central nervous system morphogenesis	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0022400	regulation of rhodopsin mediated signaling pathway	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0022412	cellular process involved in reproduction in multicellular organism	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0022414	reproductive process	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0022603	regulation of anatomical structure morphogenesis	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0022607	cellular component assembly	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0022613	ribonucleoprotein complex biogenesis	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0022618	protein-RNA complex assembly	1.0	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0022625	cytosolic large ribosomal subunit	0.240960185059498	NA	1.0	NA	0.654218621431733	0.104402778273848	NA	NA	1.0	NA	NA	NA	0
+GO:0022626	cytosolic ribosome	0.240960185059498	NA	0.38849061223483	NA	0.654218621431733	0.0009823793801457	NA	NA	0.0400234236463403	NA	NA	NA	2
+GO:0022627	cytosolic small ribosomal subunit	NA	NA	0.900476396334349	NA	NA	0.0465483267051936	NA	NA	0.16676415097637	NA	NA	NA	1
+GO:0022890	inorganic cation transmembrane transporter activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0022900	electron transport chain	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0022904	respiratory electron transport chain	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0023052	signaling	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030002	intracellular monoatomic anion homeostasis	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030030	cell projection organization	NA	0.945441327417035	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030031	cell projection assembly	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030154	cell differentiation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030159	signaling receptor complex adaptor activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030258	lipid modification	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030259	lipid glycosylation	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0030262	apoptotic nuclear changes	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0030276	clathrin binding	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0030289	protein phosphatase 4 complex	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	1.0	NA	0
+GO:0030425	dendrite	NA	NA	NA	0.809956474417292	NA	0.180052719995149	NA	NA	NA	NA	NA	NA	0
+GO:0030497	fatty acid elongation	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0030507	spectrin binding	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030513	positive regulation of BMP signaling pathway	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030620	U2 snRNA binding	NA	NA	1.0	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0030643	intracellular phosphate ion homeostasis	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030684	preribosome	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0030687	preribosome, large subunit precursor	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0030688	preribosome, small subunit precursor	NA	NA	NA	NA	NA	0.978879112091949	NA	NA	NA	NA	NA	NA	0
+GO:0030689	Noc complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0030690	Noc1p-Noc2p complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0030691	Noc2p-Noc3p complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0030706	germarium-derived oocyte differentiation	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030725	germline ring canal formation	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030856	regulation of epithelial cell differentiation	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030860	regulation of polarized epithelial cell differentiation	NA	1.0	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0030950	establishment or maintenance of actin cytoskeleton polarity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0030991	intraciliary transport particle A	NA	NA	NA	0.949367259008888	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0031056	regulation of histone modification	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0031060	regulation of histone methylation	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0031062	positive regulation of histone methylation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	0
+GO:0031109	microtubule polymerization or depolymerization	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0031110	regulation of microtubule polymerization or depolymerization	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0031111	negative regulation of microtubule polymerization or depolymerization	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0031114	regulation of microtubule depolymerization	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0031123	RNA 3'-end processing	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0031124	mRNA 3'-end processing	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0031125	rRNA 3'-end processing	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0031223	auditory behavior	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0031252	cell leading edge	NA	NA	0.900476396334349	NA	NA	0.0465483267051936	NA	NA	NA	NA	NA	NA	1
+GO:0031253	cell projection membrane	NA	NA	0.795956452768984	0.90173458812471	NA	0.0182604012395182	NA	NA	NA	NA	NA	NA	1
+GO:0031254	cell trailing edge	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0031256	leading edge membrane	NA	NA	0.568734621539662	0.809956474417292	NA	0.008317013690578	NA	NA	NA	NA	NA	NA	1
+GO:0031346	positive regulation of cell projection organization	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0031386	protein tag activity	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0031473	myosin III binding	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0031491	nucleosome binding	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0031519	PcG protein complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0031594	neuromuscular junction	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0031966	mitochondrial membrane	NA	NA	NA	0.949367259008888	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0031967	organelle envelope	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0031974	membrane-enclosed lumen	NA	NA	NA	NA	0.832559702976848	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0031975	envelope	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0031981	nuclear lumen	NA	NA	NA	NA	0.856986408039721	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0032033	myosin II light chain binding	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032036	myosin heavy chain binding	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032042	mitochondrial DNA metabolic process	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0032053	ciliary basal body organization	NA	1.0	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0032094	response to food	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032095	regulation of response to food	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032104	regulation of response to extracellular stimulus	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032107	regulation of response to nutrient levels	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032133	chromosome passenger complex	NA	NA	NA	NA	0.832559702976848	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032239	regulation of nucleobase-containing compound transport	NA	1.0	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0032241	positive regulation of nucleobase-containing compound transport	NA	1.0	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0032410	negative regulation of transporter activity	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032413	negative regulation of ion transmembrane transporter activity	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032450	maltose alpha-glucosidase activity	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	1.0	NA	0
+GO:0032451	demethylase activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0032452	histone demethylase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0032453	histone H3K4 demethylase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0032469	endoplasmic reticulum calcium ion homeostasis	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032490	detection of molecule of bacterial origin	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0032501	multicellular organismal process	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032502	developmental process	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032515	negative regulation of phosphoprotein phosphatase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032589	neuron projection membrane	NA	NA	0.568734621539662	0.809956474417292	NA	0.0082419725721773	NA	NA	NA	NA	NA	NA	1
+GO:0032590	dendrite membrane	NA	NA	0.38849061223483	0.809956474417292	NA	0.003151277218813	NA	NA	NA	NA	1.0	NA	1
+GO:0032774	RNA biosynthetic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0032787	monocarboxylic acid metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0032989	cellular component morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0032991	protein-containing complex	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0032993	protein-DNA complex	NA	NA	NA	NA	NA	NA	NA	0.0204418508850658	NA	NA	NA	NA	1
+GO:0033044	regulation of chromosome organization	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	0
+GO:0033045	regulation of sister chromatid segregation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0033047	regulation of mitotic sister chromatid segregation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0033176	proton-transporting V-type ATPase complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0033179	proton-transporting V-type ATPase, V0 domain	NA	NA	NA	0.949367259008888	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0033181	plasma membrane proton-transporting V-type ATPase complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0033301	cell cycle comprising mitosis without cytokinesis	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0033750	ribosome localization	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0033865	nucleoside bisphosphate metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0033875	ribonucleoside bisphosphate metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0034032	purine nucleoside bisphosphate metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0034220	monoatomic ion transmembrane transport	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034285	response to disaccharide	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0034329	cell junction assembly	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034332	adherens junction organization	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034333	adherens junction assembly	NA	0.986188657067306	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034334	adherens junction maintenance	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034452	dynactin binding	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034464	BBSome	NA	NA	NA	0.949367259008888	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034508	centromere complex assembly	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0034551	mitochondrial respiratory chain complex III assembly	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0034641	cellular nitrogen compound metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0034654	nucleobase-containing compound biosynthetic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0034703	cation channel complex	NA	NA	NA	0.949367259008888	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034720	histone H3-K4 demethylation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0034722	gamma-glutamyl-peptidase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034728	nucleosome organization	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034763	negative regulation of transmembrane transport	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034766	negative regulation of monoatomic ion transmembrane transport	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0034994	microtubule organizing center attachment site organization	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035003	subapical complex	NA	0.903383757955863	NA	0.809956474417292	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0035006	melanization defense response	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035010	encapsulation of foreign target	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035011	melanotic encapsulation of foreign target	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035059	RCAF complex	NA	NA	0.795956452768984	NA	NA	NA	NA	0.424485822076197	NA	NA	NA	NA	0
+GO:0035067	negative regulation of histone acetylation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0035073	pupariation	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0035082	axoneme assembly	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035088	establishment or maintenance of apical/basal cell polarity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035098	ESC/E(Z) complex	NA	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	0
+GO:0035149	lumen formation, open tracheal system	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0035186	syncytial blastoderm mitotic cell cycle	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0035197	siRNA binding	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035207	negative regulation of hemocyte proliferation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035239	tube morphogenesis	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035253	ciliary rootlet	NA	NA	NA	0.824304211978374	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035262	gonad morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035264	multicellular organism growth	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035268	protein mannosylation	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0035269	protein O-linked mannosylation	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0035287	head segmentation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0035290	trunk segmentation	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0035292	specification of segmental identity, trunk	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0035295	tube development	NA	0.945441327417035	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035297	regulation of Malpighian tubule diameter	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035298	regulation of Malpighian tubule size	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035305	negative regulation of dephosphorylation	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0035308	negative regulation of protein dephosphorylation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035336	long-chain fatty-acyl-CoA metabolic process	1.0	NA	NA	NA	NA	1.0	NA	NA	NA	NA	1.0	NA	0
+GO:0035337	fatty-acyl-CoA metabolic process	NA	NA	NA	NA	NA	0.82524150578058	NA	NA	NA	NA	1.0	NA	0
+GO:0035349	coenzyme A transmembrane transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0035350	FAD transmembrane transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0035352	NAD transmembrane transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0035363	histone locus body	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0035371	microtubule plus-end	NA	NA	NA	NA	0.856986408039721	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035383	thioester metabolic process	NA	NA	NA	NA	NA	0.940360202892076	NA	NA	NA	NA	NA	NA	0
+GO:0035384	thioester biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	0
+GO:0035507	regulation of myosin-light-chain-phosphatase activity	NA	0.986188657067306	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	NA	0.986188657067306	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035626	juvenile hormone mediated signaling pathway	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0035674	tricarboxylic acid transmembrane transport	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035869	ciliary transition zone	NA	NA	NA	NA	0.832559702976848	NA	NA	NA	NA	NA	NA	NA	0
+GO:0035924	cellular response to vascular endothelial growth factor stimulus	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0036064	ciliary basal body	NA	0.903383757955863	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0036156	inner dynein arm	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0036159	inner dynein arm assembly	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0036194	muscle cell projection	NA	NA	0.795956452768984	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0036445	neuronal stem cell division	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0036477	somatodendritic compartment	NA	NA	NA	0.949367259008888	NA	0.707102226974614	NA	NA	NA	NA	NA	NA	0
+GO:0038004	epidermal growth factor receptor ligand maturation	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0038023	signaling receptor activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0038063	collagen-activated tyrosine kinase receptor signaling pathway	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0038065	collagen-activated signaling pathway	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0038084	vascular endothelial growth factor signaling pathway	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0038127	ERBB signaling pathway	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0040005	chitin-based cuticle attachment to epithelium	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0040011	locomotion	NA	0.930681601412841	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0040014	regulation of multicellular organism growth	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0040016	embryonic cleavage	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0040018	positive regulation of multicellular organism growth	1.0	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0040029	epigenetic regulation of gene expression	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0042043	neurexin family protein binding	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0042048	olfactory behavior	NA	NA	NA	1.0	NA	0.90970870500197	NA	NA	NA	NA	NA	NA	0
+GO:0042058	regulation of epidermal growth factor receptor signaling pathway	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0042180	cellular ketone metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0042247	establishment of planar polarity of follicular epithelium	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0042249	establishment of planar polarity of embryonic epithelium	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0042254	ribosome biogenesis	1.0	NA	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0042255	ribosome assembly	1.0	1.0	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0042273	ribosomal large subunit biogenesis	1.0	1.0	1.0	NA	0.299283695587269	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0042274	ribosomal small subunit biogenesis	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0042335	cuticle development	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0042364	water-soluble vitamin biosynthetic process	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0042393	histone binding	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0042445	hormone metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0042478	regulation of eye photoreceptor cell development	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0042579	microbody	1.0	NA	NA	NA	NA	0.180052719995149	NA	NA	NA	NA	NA	NA	0
+GO:0042645	mitochondrial nucleoid	NA	NA	0.900476396334349	NA	0.675450880169064	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0042734	presynaptic membrane	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0042773	ATP synthesis coupled electron transport	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0042775	mitochondrial ATP synthesis coupled electron transport	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0042788	polysomal ribosome	NA	NA	0.900476396334349	0.824304211978374	NA	0.896820681651113	NA	NA	1.0	NA	1.0	NA	0
+GO:0042789	mRNA transcription by RNA polymerase II	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0042810	pheromone metabolic process	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0042811	pheromone biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0042816	vitamin B6 metabolic process	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0042819	vitamin B6 biosynthetic process	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0042822	pyridoxal phosphate metabolic process	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0042823	pyridoxal phosphate biosynthetic process	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0042940	D-amino acid transport	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0042943	D-amino acid transmembrane transporter activity	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0042995	cell projection	NA	0.383826387102394	NA	0.0938912286713604	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0043005	neuron projection	NA	NA	NA	0.824304211978374	NA	0.446333453017533	NA	NA	NA	NA	NA	NA	0
+GO:0043027	cysteine-type endopeptidase inhibitor activity involved in apoptotic process	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043028	cysteine-type endopeptidase regulator activity involved in apoptotic process	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043043	peptide biosynthetic process	NA	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0043063	intercellular bridge organization	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043132	NAD transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0043139	5'-3' DNA helicase activity	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043169	cation binding	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0043228	non-membrane-bounded organelle	1.0	NA	0.900476396334349	NA	0.654218621431733	1.0	NA	0.343266614862927	0.409485251452888	NA	NA	NA	0
+GO:0043232	intracellular non-membrane-bounded organelle	1.0	NA	0.900476396334349	NA	0.654218621431733	1.0	NA	0.343266614862927	0.409485251452888	NA	NA	NA	0
+GO:0043233	organelle lumen	NA	NA	NA	NA	0.832559702976848	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0043242	negative regulation of protein-containing complex disassembly	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0043271	negative regulation of monoatomic ion transport	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043297	apical junction assembly	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043394	proteoglycan binding	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043395	heparan sulfate proteoglycan binding	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043500	muscle adaptation	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043501	skeletal muscle adaptation	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043539	protein serine/threonine kinase activator activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0043603	amide metabolic process	1.0	NA	1.0	NA	NA	0.90970870500197	NA	NA	1.0	NA	NA	NA	0
+GO:0043604	amide biosynthetic process	NA	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0043614	multi-eIF complex	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0043855	cyclic nucleotide-gated monoatomic ion channel activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0043933	protein-containing complex organization	NA	0.986188657067306	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0044085	cellular component biogenesis	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0044087	regulation of cellular component biogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0044089	positive regulation of cellular component biogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0044249	cellular biosynthetic process	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0044255	cellular lipid metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0044282	small molecule catabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0044283	small molecule biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0044295	axonal growth cone	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0044331	cell-cell adhesion mediated by cadherin	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0044391	ribosomal subunit	1.0	NA	0.38849061223483	NA	0.832559702976848	0.0077900310190166	NA	NA	0.16676415097637	NA	NA	NA	1
+GO:0044610	FMN transmembrane transporter activity	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0044782	cilium organization	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0044784	metaphase/anaphase transition of cell cycle	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0044877	protein-containing complex binding	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0045047	protein targeting to ER	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0045120	pronucleus	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045132	meiotic chromosome segregation	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045143	homologous chromosome segregation	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045159	myosin II binding	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045161	neuronal ion channel clustering	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	1.0	0
+GO:0045176	apical protein localization	NA	0.986188657067306	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045179	apical cortex	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045186	zonula adherens assembly	NA	0.929505511074975	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045198	establishment of epithelial cell apical/basal polarity	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045257	succinate dehydrogenase complex (ubiquinone)	NA	NA	NA	0.90173458812471	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045259	proton-transporting ATP synthase complex	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0045273	respiratory chain complex II	NA	NA	NA	0.90173458812471	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045275	respiratory chain complex III	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045281	succinate dehydrogenase complex	NA	NA	NA	0.90173458812471	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045283	fumarate reductase complex	NA	NA	NA	0.90173458812471	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045314	regulation of compound eye photoreceptor development	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045494	photoreceptor cell maintenance	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045572	positive regulation of imaginal disc growth	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0045742	positive regulation of epidermal growth factor receptor signaling pathway	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045793	positive regulation of cell size	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0045814	negative regulation of gene expression, epigenetic	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	0
+GO:0045815	transcription initiation-coupled chromatin remodeling	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0045934	negative regulation of nucleobase-containing compound metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0046164	alcohol catabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0046184	aldehyde biosynthetic process	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046323	glucose import	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046339	diacylglycerol metabolic process	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046349	amino sugar biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046394	carboxylic acid biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0046460	neutral lipid biosynthetic process	NA	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0046463	acylglycerol biosynthetic process	NA	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0046473	phosphatidic acid metabolic process	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046475	glycerophospholipid catabolic process	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046483	heterocycle metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0046513	ceramide biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0046666	retinal cell programmed cell death	NA	NA	1.0	0.929589941239597	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046667	compound eye retinal cell programmed cell death	NA	NA	1.0	0.929589941239597	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046668	regulation of retinal cell programmed cell death	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046669	regulation of compound eye retinal cell programmed cell death	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046671	negative regulation of retinal cell programmed cell death	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046673	negative regulation of compound eye retinal cell programmed cell death	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046831	regulation of RNA export from nucleus	NA	1.0	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0046833	positive regulation of RNA export from nucleus	NA	1.0	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0046845	branched duct epithelial cell fate determination, open tracheal system	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046847	filopodium assembly	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046872	metal ion binding	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0046900	tetrahydrofolylpolyglutamate metabolic process	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0046949	fatty-acyl-CoA biosynthetic process	NA	1.0	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	0
+GO:0046961	proton-transporting ATPase activity, rotational mechanism	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0046974	histone H3K9 methyltransferase activity	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0046975	histone H3K36 methyltransferase activity	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0047389	glycerophosphocholine phosphodiesterase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0048029	monosaccharide binding	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048058	compound eye corneal lens development	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0048103	somatic stem cell division	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048104	establishment of body hair or bristle planar orientation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048285	organelle fission	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0048468	cell development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048477	oogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048500	signal recognition particle	NA	NA	NA	NA	NA	0.978879112091949	NA	NA	NA	NA	NA	NA	0
+GO:0048546	digestive tract morphogenesis	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048565	digestive tract development	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048567	ectodermal digestive tract morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048588	developmental cell growth	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048598	embryonic morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048619	embryonic hindgut morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048675	axon extension	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048729	tissue morphogenesis	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048731	system development	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048754	branching morphogenesis of an epithelial tube	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048788	cytoskeleton of presynaptic active zone	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0048789	cytoskeletal matrix organization at active zone	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0048790	maintenance of presynaptic active zone structure	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0048791	calcium ion-regulated exocytosis of neurotransmitter	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0048813	dendrite morphogenesis	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0048846	axon extension involved in axon guidance	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0048856	anatomical structure development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048869	cellular developmental process	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0048870	cell motility	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0050684	regulation of mRNA processing	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0050714	positive regulation of protein secretion	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0050833	pyruvate transmembrane transporter activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0050877	nervous system process	NA	1.0	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0050906	detection of stimulus involved in sensory perception	NA	1.0	1.0	1.0	NA	0.775651855068431	NA	NA	NA	NA	NA	NA	0
+GO:0050907	detection of chemical stimulus involved in sensory perception	NA	NA	1.0	1.0	NA	0.21661735614439	NA	NA	NA	NA	NA	NA	0
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell	NA	NA	1.0	1.0	NA	0.163578387869922	NA	NA	NA	NA	NA	NA	0
+GO:0050913	sensory perception of bitter taste	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0050953	sensory perception of light stimulus	NA	0.945441327417035	NA	NA	1.0	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0050954	sensory perception of mechanical stimulus	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0050974	detection of mechanical stimulus involved in sensory perception	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0050976	detection of mechanical stimulus involved in sensory perception of touch	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0050982	detection of mechanical stimulus	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051010	microtubule plus-end binding	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051029	rRNA transport	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051036	regulation of endosome size	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051053	negative regulation of DNA metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0051119	sugar transmembrane transporter activity	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051128	regulation of cellular component organization	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051130	positive regulation of cellular component organization	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051252	regulation of RNA metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0051255	spindle midzone assembly	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0051257	meiotic spindle midzone assembly	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0051260	protein homooligomerization	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0051276	chromosome organization	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0051304	chromosome separation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0051306	mitotic sister chromatid separation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0051346	negative regulation of hydrolase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051382	kinetochore assembly	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0051383	kinetochore organization	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0051489	regulation of filopodium assembly	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051491	positive regulation of filopodium assembly	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051503	adenine nucleotide transport	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0051536	iron-sulfur cluster binding	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0051537	2 iron, 2 sulfur cluster binding	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0051540	metal cluster binding	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0051567	histone H3-K9 methylation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0051601	exocyst localization	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051606	detection of stimulus	NA	NA	1.0	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0051674	localization of cell	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051724	NAD transmembrane transporter activity	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0051726	regulation of cell cycle	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0051783	regulation of nuclear division	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0051788	response to misfolded protein	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0051923	sulfation	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051926	negative regulation of calcium ion transport	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051932	synaptic transmission, GABAergic	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0051983	regulation of chromosome segregation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0055057	neuroblast division	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0055059	asymmetric neuroblast division	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0055062	phosphate ion homeostasis	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0055081	monoatomic anion homeostasis	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0055123	digestive system development	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0060025	regulation of synaptic activity	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0060089	molecular transducer activity	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0060148	positive regulation of post-transcriptional gene silencing	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0060269	centripetally migrating follicle cell migration	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0060271	cilium assembly	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0060429	epithelium development	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0060446	branching involved in open tracheal system development	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0060491	regulation of cell projection assembly	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0060560	developmental growth involved in morphogenesis	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0060562	epithelial tube morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0060571	morphogenesis of an epithelial fold	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0061031	endodermal digestive tract morphogenesis	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0061138	morphogenesis of a branching epithelium	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0061245	establishment or maintenance of bipolar cell polarity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0061326	renal tubule development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0061327	anterior Malpighian tubule development	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0061331	epithelial cell proliferation involved in Malpighian tubule morphogenesis	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0061333	renal tubule morphogenesis	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0061355	Wnt protein secretion	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0061356	regulation of Wnt protein secretion	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0061357	positive regulation of Wnt protein secretion	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0061525	hindgut development	NA	0.929505511074975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0061647	histone H3-K9 modification	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0061663	NEDD8 ligase activity	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0061822	ciliary cap	NA	NA	NA	NA	0.675450880169064	NA	NA	NA	NA	NA	NA	NA	0
+GO:0061824	cytosolic ciliogenesis	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0061980	regulatory RNA binding	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0065003	protein-containing complex assembly	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070013	intracellular organelle lumen	NA	NA	NA	NA	0.832559702976848	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0070069	cytochrome complex	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070073	clustering of voltage-gated calcium channels	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	1.0	0
+GO:0070076	histone lysine demethylation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0070181	small ribosomal subunit rRNA binding	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	NA	0
+GO:0070372	regulation of ERK1 and ERK2 cascade	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070461	SAGA-type complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:0070469	respirasome	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070492	oligosaccharide binding	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070593	dendrite self-avoidance	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0070594	juvenile hormone response element binding	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0070613	regulation of protein processing	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070734	histone H3-K27 methylation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	0
+GO:0070735	protein-glycine ligase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	0.301785634064872	NA	1.0	0
+GO:0070736	protein-glycine ligase activity, initiating	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0070737	protein-glycine ligase activity, elongating	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0070853	myosin VI binding	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070854	myosin VI heavy chain binding	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070883	pre-miRNA binding	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070925	organelle assembly	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070936	protein K48-linked ubiquitination	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070971	endoplasmic reticulum exit site	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0070993	translation preinitiation complex	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0071010	prespliceosome	NA	NA	NA	0.824304211978374	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0071012	catalytic step 1 spliceosome	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0071014	post-mRNA release spliceosomal complex	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0071077	adenosine 3',5'-bisphosphate transmembrane transporter activity	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0071103	DNA conformation change	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0071106	adenosine 3',5'-bisphosphate transmembrane transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0071141	SMAD protein complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0071203	WASH complex	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0071218	cellular response to misfolded protein	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0071322	cellular response to carbohydrate stimulus	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0071324	cellular response to disaccharide stimulus	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0071329	cellular response to sucrose stimulus	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0071422	succinate transmembrane transport	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0071466	cellular response to xenobiotic stimulus	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0071616	acyl-CoA biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	0
+GO:0071712	ER-associated misfolded protein catabolic process	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	1.0	NA	0
+GO:0071824	protein-DNA complex organization	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0071826	protein-RNA complex organization	1.0	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0071840	cellular component organization or biogenesis	NA	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0071855	neuropeptide receptor binding	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0071897	DNA biosynthetic process	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0071942	XPC complex	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0072001	renal system development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0072002	Malpighian tubule development	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0072330	monocarboxylic acid biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0072521	purine-containing compound metabolic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0072530	purine-containing compound transmembrane transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0072599	establishment of protein localization to endoplasmic reticulum	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0072687	meiotic spindle	NA	NA	NA	NA	0.905015432440844	NA	NA	NA	NA	NA	NA	NA	0
+GO:0080008	Cul4-RING E3 ubiquitin ligase complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0080019	alcohol-forming very long-chain fatty acyl-CoA reductase activity	1.0	NA	NA	NA	NA	1.0	NA	NA	NA	NA	1.0	NA	0
+GO:0080121	AMP transport	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0080122	AMP transmembrane transporter activity	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0089720	caspase binding	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0090062	regulation of trehalose metabolic process	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0090066	regulation of anatomical structure size	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0090132	epithelium migration	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0090153	regulation of sphingolipid biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0090154	positive regulation of sphingolipid biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0090163	establishment of epithelial cell planar polarity	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0090304	nucleic acid metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0090308	regulation of DNA methylation-dependent heterochromatin formation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0090309	positive regulation of DNA methylation-dependent heterochromatin formation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0090599	alpha-glucosidase activity	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	1.0	NA	0
+GO:0090659	walking behavior	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0090665	glycoprotein complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0097038	perinuclear endoplasmic reticulum	NA	NA	0.900476396334349	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0097064	ncRNA export from nucleus	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0097089	methyl-branched fatty acid metabolic process	NA	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0097159	organic cyclic compound binding	NA	NA	NA	NA	1.0	NA	NA	0.11262684739829	NA	NA	NA	NA	0
+GO:0097194	execution phase of apoptosis	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0097340	inhibition of cysteine-type endopeptidase activity	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0097341	zymogen inhibition	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0097354	prenylation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	1.0	NA	NA	0
+GO:0097447	dendritic tree	NA	NA	NA	0.809956474417292	NA	0.180052719995149	NA	NA	NA	NA	NA	NA	0
+GO:0097485	neuron projection guidance	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0097494	regulation of vesicle size	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0098581	detection of external biotic stimulus	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0098590	plasma membrane region	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0098687	chromosomal region	NA	NA	NA	NA	0.801472186857216	NA	NA	NA	NA	NA	NA	NA	0
+GO:0098722	asymmetric stem cell division	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0098796	membrane protein complex	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0098797	plasma membrane protein complex	NA	NA	NA	0.90173458812471	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0098803	respiratory chain complex	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0098813	nuclear chromosome segregation	NA	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0098831	presynaptic active zone cytoplasmic component	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0099080	supramolecular complex	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0099086	synaptonemal structure	1.0	NA	0.900476396334349	0.90173458812471	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0099513	polymeric cytoskeletal fiber	NA	NA	NA	NA	0.832559702976848	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0099558	maintenance of synapse structure	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0099569	presynaptic cytoskeleton	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0099643	signal release from synapse	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0099738	cell cortex region	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0106413	RNA dihydrouridine synthase activity	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0120025	plasma membrane bounded cell projection	NA	0.383826387102394	NA	0.0938912286713604	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:0120031	plasma membrane bounded cell projection assembly	NA	0.986188657067306	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0120034	positive regulation of plasma membrane bounded cell projection assembly	NA	0.996851678975272	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0120036	plasma membrane bounded cell projection organization	NA	0.931022263454695	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0120251	hydrocarbon biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0120252	hydrocarbon metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:0120316	sperm flagellum assembly	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0140014	mitotic nuclear division	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0140096	catalytic activity, acting on a protein	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:0140110	transcription regulator activity	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0140448	signaling receptor ligand precursor processing	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0140457	protein demethylase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0140657	ATP-dependent activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:0140694	non-membrane-bounded organelle assembly	1.0	NA	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:0140718	facultative heterochromatin formation	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:0140938	histone H3 methyltransferase activity	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:0141047	molecular tag activity	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:0141052	histone H3 demethylase activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:1900073	regulation of neuromuscular synaptic transmission	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1900117	regulation of execution phase of apoptosis	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1900118	negative regulation of execution phase of apoptosis	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1900242	regulation of synaptic vesicle endocytosis	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:1900244	positive regulation of synaptic vesicle endocytosis	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:1900370	positive regulation of post-transcriptional gene silencing by RNA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1901019	regulation of calcium ion transmembrane transporter activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1901020	negative regulation of calcium ion transmembrane transporter activity	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1901073	glucosamine-containing compound biosynthetic process	1.0	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1901184	regulation of ERBB signaling pathway	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1901186	positive regulation of ERBB signaling pathway	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1901360	organic cyclic compound metabolic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:1901363	heterocyclic compound binding	NA	NA	NA	NA	1.0	NA	NA	0.11262684739829	NA	NA	NA	NA	0
+GO:1901385	regulation of voltage-gated calcium channel activity	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1901386	negative regulation of voltage-gated calcium channel activity	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1901475	pyruvate transmembrane transport	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1901566	organonitrogen compound biosynthetic process	NA	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:1901568	fatty acid derivative metabolic process	NA	NA	NA	NA	NA	0.90970870500197	NA	NA	NA	NA	NA	NA	0
+GO:1901570	fatty acid derivative biosynthetic process	NA	NA	NA	NA	NA	0.875507649522204	NA	NA	NA	NA	1.0	NA	0
+GO:1901616	organic hydroxy compound catabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:1901661	quinone metabolic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:1901663	quinone biosynthetic process	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:1901679	nucleotide transmembrane transport	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:1901873	regulation of post-translational protein modification	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:1901879	regulation of protein depolymerization	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:1901880	negative regulation of protein depolymerization	NA	1.0	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:1901984	negative regulation of protein acetylation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:1902275	regulation of chromatin organization	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:1902284	neuron projection extension involved in neuron projection guidance	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:1902321	methyl-branched fatty acid biosynthetic process	NA	NA	NA	1.0	NA	1.0	NA	NA	1.0	NA	NA	NA	0
+GO:1902463	protein localization to cell leading edge	NA	0.986188657067306	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:1902495	transmembrane transporter complex	NA	NA	NA	0.809956474417292	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1902850	microtubule cytoskeleton organization involved in mitosis	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:1903047	mitotic cell cycle process	NA	NA	NA	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	0
+GO:1903170	negative regulation of calcium ion transmembrane transport	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1903293	phosphatase complex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	0
+GO:1903305	regulation of regulated secretory pathway	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0
+GO:1903317	regulation of protein maturation	1.0	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1903318	negative regulation of protein maturation	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1903421	regulation of synaptic vesicle recycling	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:1903423	positive regulation of synaptic vesicle recycling	NA	1.0	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	0
+GO:1904059	regulation of locomotor rhythm	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:1904063	negative regulation of cation transmembrane transport	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1904659	glucose transmembrane transport	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1905038	regulation of membrane lipid metabolic process	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:1905268	negative regulation of chromatin organization	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:1905330	regulation of morphogenesis of an epithelium	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1905349	ciliary transition zone assembly	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:1905515	non-motile cilium assembly	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:1905818	regulation of chromosome separation	NA	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:1990001	inhibition of cysteine-type endopeptidase activity involved in apoptotic process	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1990138	neuron projection extension	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	0
+GO:1990204	oxidoreductase complex	NA	NA	NA	0.900671373655278	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1990351	transporter complex	NA	NA	NA	0.824304211978374	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1990381	ubiquitin-specific protease binding	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1990385	meiotic spindle midzone	NA	NA	NA	NA	0.832559702976848	NA	NA	NA	NA	NA	NA	NA	0
+GO:1990525	BIR domain binding	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:1990752	microtubule end	NA	NA	NA	NA	0.856986408039721	NA	NA	NA	NA	NA	NA	NA	0
+GO:1990904	ribonucleoprotein complex	NA	NA	0.795956452768984	NA	NA	0.104402778273848	NA	NA	1.0	NA	NA	NA	0
+GO:2000027	regulation of animal organ morphogenesis	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2000116	regulation of cysteine-type endopeptidase activity	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2000117	negative regulation of cysteine-type endopeptidase activity	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2000303	regulation of ceramide biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:2000304	positive regulation of ceramide biosynthetic process	1.0	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	0
+GO:2000637	positive regulation of miRNA-mediated gene silencing	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2000757	negative regulation of peptidyl-lysine acetylation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:2001013	epithelial cell proliferation involved in renal tubule morphogenesis	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2001044	regulation of integrin-mediated signaling pathway	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2001046	positive regulation of integrin-mediated signaling pathway	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2001141	regulation of RNA biosynthetic process	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:2001228	regulation of response to gamma radiation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:2001229	negative regulation of response to gamma radiation	NA	NA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	0
+GO:2001251	negative regulation of chromosome organization	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.0	0
+GO:2001257	regulation of cation channel activity	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2001258	negative regulation of cation channel activity	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2001267	regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2001269	positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	NA	NA	NA	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2001270	regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0
+GO:2001271	negative regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	1.0	NA	1.0	1.0	NA	NA	NA	NA	NA	NA	NA	NA	0

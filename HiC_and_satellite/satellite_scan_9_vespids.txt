@@ -1,0 +1,11 @@
+genome	size_Mb	Mb_windows_>1%	Mb_windows_>10%	max_window_%
+Vespa_crabro (Sumner lab Hi-C, 10.5281/zenodo.23374842)	192.6	0.00	0.00	0.7
+Dolichovespula_media GCA_911387685.1	247.6	0.00	0.00	0.6
+Dolichovespula_saxonica GCA_911387935.1	221.8	0.01	0.00	1.9
+Vespula_germanica GCA_905340365.1	205.8	0.00	0.00	1.0
+Dolichovespula_sylvestris GCA_918808275.2	232.6	0.00	0.00	0.7
+Ancistrocerus_nigricornis GCA_916049575.1	232.0	0.00	0.00	0.5
+Vespula_vulgaris GCF_905475345.1	188.2	0.00	0.00	0.9
+Vespa_velutina GCF_912470025.1	194.0	0.00	0.00	1.0
+Vespula_pensylvanica GCF_014466175.1	179.4	0.00	0.00	0.6
+# satellite_scan.py run on Myriad, 16 Oct 2026 (job satscan). B. juncea: 65.9 Mb in windows >1%, max 85.7%; P. dominula and L. flavolineata: 0 Mb, max 0.7% and 0.9% (earlier run).

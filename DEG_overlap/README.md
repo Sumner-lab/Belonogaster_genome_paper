@@ -1,4 +1,33 @@
-# Orthogroup Analysis: Queen vs Worker Gene Expression
+# Overlap of caste-biased orthogroups between species (Figure 6c)
+
+## Analysis used in the paper: `overlap_test.py`
+
+```
+python overlap_test.py N0.tsv overlap_tests_excon_run13_OFv3.tsv
+```
+
+- **DEGs:** DESeq2 result tables `res_Bjun 1.tsv`, `res_LF.tsv` and `res_Pdom.tsv` (Supplementary Table 2), in the same folder. padj < 0.05; log2 fold change > 0 = queen-biased (reproductives), < 0 = worker-biased.
+- **Orthogroups:** `N0.tsv` from the Excon v2.5.1 run (OrthoFinder v3.1.4, 12 species, 11,702 orthogroups; `cafe/base/N0.tsv` in the CAFE files on Zenodo, https://doi.org/10.5281/zenodo.23373652). These are the orthogroups used for the gene family analysis.
+- **Test:** for each pair of species, a one-sided hypergeometric test of whether the orthogroups containing caste-biased genes overlap more than expected. Two universes are reported:
+  - `B_tested_both` (used in the paper): orthogroups with at least one gene tested by DESeq2 in both species (7,847–8,238);
+  - `A_all`: all orthogroups.
+- P-values for the six same-caste tests are BH-corrected (`BH_same_caste`). Opposite-caste comparisons are a control.
+
+| Comparison | Worker-biased: shared / expected, P | Queen-biased: shared / expected, P |
+|---|---|---|
+| *B. juncea* – *L. flavolineata* | 46 / 10.1, 1e-18 | 13 / 5.1, 0.0017 |
+| *B. juncea* – *P. dominula* | 78 / 35.7, 5e-12 | 38 / 26.2, 0.0098 |
+| *L. flavolineata* – *P. dominula* | 61 / 31.3, 1e-7 | 56 / 33.2, 3e-5 |
+
+Opposite castes: P ≥ 0.87. Full results: `overlap_tests_excon_run13_OFv3.tsv`. `overlap_tests_two_universes.tsv` is the same test with the earlier four-species OrthoFinder run, which gives the same conclusions.
+
+Requires Python 3 with scipy.
+
+---
+
+## Earlier analysis: `orthogroup_analysis.2.R`
+
+The R script below was the first version of this analysis (all orthogroups as the universe, four-species orthogroups). It is kept for its extra plots.
 
 This R script analyzes differential gene expression patterns across three wasp species using orthogroup information to identify conserved regulatory patterns.
 

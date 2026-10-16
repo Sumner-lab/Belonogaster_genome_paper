@@ -15,6 +15,7 @@ This folder holds the code behind three results:
 | `satellite_scan.py` | Looks for the satellite in other genomes |
 | `satellite_296bp_consensus.fa` | Consensus monomer of the satellite (296 bp), written by `trf_summary.py` |
 | `make_figure1.py` | Final Figure 1: photo (a) and contact map (b) as equal squares, 180 mm wide |
+| `satellite_scan_9_vespids.txt` | Output of `satellite_scan.py` for nine more vespid genomes |
 
 ## Inputs
 
@@ -79,11 +80,22 @@ The script takes every 12-mer of the monomer, on both strands and from the circu
 
 Random sequence gives about 0.004%. A homologous satellite array gives several percent, even at roughly 75–80% identity.
 
-| Genome | Windows > 1% | Densest window |
-|---|---|---|
-| *B. juncea* | 65.9 Mb | 85.7% |
-| *P. dominula* | 0 | 0.7% |
-| *L. flavolineata* | 0 | 0.9% |
+| Genome | Assembly | Windows > 1% | Densest window |
+|---|---|---|---|
+| *B. juncea* | GCA_057814355.1 | 65.9 Mb | 85.7% |
+| *P. dominula* | Hi-C assembly (Supplementary Table 1) | 0 | 0.7% |
+| *L. flavolineata* | Hi-C assembly (Supplementary Table 1) | 0 | 0.9% |
+| *Vespa crabro* | Hi-C assembly, https://doi.org/10.5281/zenodo.23374842 | 0 | 0.7% |
+| *Vespa velutina* | GCF_912470025.1 | 0 | 1.0% |
+| *Vespula germanica* | GCA_905340365.1 | 0 | 1.0% |
+| *Vespula vulgaris* | GCF_905475345.1 | 0 | 0.9% |
+| *Vespula pensylvanica* | GCF_014466175.1 | 0 | 0.6% |
+| *Dolichovespula media* | GCA_911387685.1 | 0 | 0.6% |
+| *Dolichovespula saxonica* | GCA_911387935.1 | 0.01 Mb | 1.9% |
+| *Dolichovespula sylvestris* | GCA_918808275.2 | 0 | 0.7% |
+| *Ancistrocerus nigricornis* | GCA_916049575.1 | 0 | 0.5% |
+
+No window reaches 10% in any genome except *B. juncea*. Per-genome output for the nine Vespinae and Eumeninae genomes: `satellite_scan_9_vespids.txt`.
 
 ## Software
 
